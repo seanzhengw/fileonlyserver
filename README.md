@@ -6,11 +6,11 @@ This is just a packaging of http.FileServer,
 
 but disabled directory listings by return 404.
 
-# Install
+## Install
 
 	go get -u github.com/seanzhengw/fileonlyserver
 
-# Examples
+## Examples
 
 use it like http.FileServer
 
